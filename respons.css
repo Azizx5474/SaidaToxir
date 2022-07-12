@@ -1,0 +1,29 @@
+@media (max-width:992px) {
+    
+    .main {
+        width: 850px;
+    }
+    .h1{
+        width: 1000px;
+    }
+    .h3 {
+        margin-left: 150px;
+    }
+}
+@media (max-width:400px){
+    .main {
+        width: 650px;
+    }
+    .h3 {
+        margin-top: 80px;
+    }
+}
+@media (min-width:1024px) {
+    .main {
+        margin-left: 40%;
+    }
+    .h3 {
+        margin-left: 42%;
+        margin-top: 0%;
+    }
+}
